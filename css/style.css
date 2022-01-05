@@ -102,7 +102,8 @@ right: 35%;}
 .middle-container{
   background-color: #FFF8F3;
 }
-.bottom-container{background-color: #DFD3C3;}
+.bottom-container{background-color: #DFD3C3;
+padding: 50px 0 20px;}
 .h3{margin-top: 0;
 padding-top: 10px;}
 .p{margin-bottom: 0;
