@@ -137,3 +137,6 @@ a{
   text-decoration: none;
   color: #676FA3;
 }
+a:hover{
+  color: #9145B6;;
+}
